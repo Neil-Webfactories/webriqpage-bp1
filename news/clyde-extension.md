@@ -2,7 +2,7 @@
 title: Clyde Extension
 banner: /img/uploads/wind-farm_f74d2a867739a6401573707ae7f2d882.jpg
 shortdesc: "Following consent from the Scottish Government in July 2014,"
-cmsUserSlug: ""
+cmsUserSlug: clyde-extension
 date: 2016-07-31T16:00:00.000Z
 ---
 
